@@ -1,2 +1,2 @@
 # Organizer-
-simply organize the desktop items into 3 categories folders, file and programs
+simply organize the desktop items into 3 categories folders, files and programs
